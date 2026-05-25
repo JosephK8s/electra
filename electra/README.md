@@ -21,7 +21,6 @@
 - 📦 Order placement and status tracking
 - ⭐ Product reviews and ratings
 - 👤 Customer profile / shipping address management
-- 📬 Contact Us form
 - 🛠️ Admin panel (manage products, orders, users)
 
 ---
