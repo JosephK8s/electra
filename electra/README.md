@@ -2,7 +2,7 @@
 
 > IGNOU MCA Online Project (MCSP-232)  
 > **Student:** Joseph James | **Enrolment No:** 2452427589  
-> **Guide:** As per project submission
+> **Guide:** Lincy Maria
 
 ---
 
